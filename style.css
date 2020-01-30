@@ -1,0 +1,22 @@
+body {
+    background-color: lightblue;
+  }
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 8vh;
+
+}
+
+.jumbotron {
+    background-image: url(https://cnet1.cbsistatic.com/img/VBmva61x4kN1vU4uPga_sdRZKC4=/2018/08/24/2f1c3d4a-dd45-45b6-8609-f564105df634/mclaren-720s-gt3-ogi.jpg);
+    background-size: cover;
+    color: white;
+    height: 100vh;
+}
+
+h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: inherit;
+    font-size: 6vh;
+}
